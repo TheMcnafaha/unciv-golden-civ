@@ -14,11 +14,15 @@
     "name": "V1 Cluster Bombs",
     "unitType": "Missile",
     "movement": 1,
-    "strength": 10,
-    "rangedStrength": 10,
+    "strength": 1,
+    "rangedStrength": 1,
     "range": 8,
     "cost": 25,
-    "uniques": ["Blast radius [3]"],
+    "uniques": [
+      "[+1000]% Strength",
+      "Blast radius [3]",
+      "Nuclear weapon of Strength [0]"
+    ],
     "attackSound": "missile"
   }
 ]
