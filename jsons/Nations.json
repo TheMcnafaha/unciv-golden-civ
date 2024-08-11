@@ -32,7 +32,10 @@
 
     "outerColor": [16, 16, 16],
     "innerColor": [255, 200, 200],
-    "unique": "Military Units gifted from City-States start with [300] XP",
+    "unique": [
+      "Military Units gifted from City-States start with [300] XP",
+      "Starts with [Radar]"
+    ],
     "cities": ["Chernobyl"]
   }
 ]
