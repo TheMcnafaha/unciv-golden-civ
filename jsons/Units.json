@@ -21,7 +21,6 @@
     "range": 6,
     "cost": 40,
     "uniques": ["[-100]% maintenance costs"],
-    "upgradesTo": "V2 Missile",
     "obsoleteTech": "Machinery",
     "attackSound": "missile"
   },
@@ -46,29 +45,6 @@
     "range": 3,
     "cost": 600,
     "uniques": ["Blast radius [4]", "Nuclear weapon of Strength [0]"],
-    "attackSound": "missile"
-  },
-  {
-    "name": "Naval Launcher",
-    "unitType": "Submarine",
-    "movement": 8,
-    "strength": 20,
-    "rangedStrength": 25,
-    "range": 2,
-    "cost": 300,
-    "replaces": "Caravel",
-    "attackSound": "torpedo",
-    "uniques": "Can carry [2] [Missile] units"
-  },
-  {
-    "name": "Launcher",
-    "unitType": "Scout",
-    "movement": 1,
-    "strength": 1,
-    "rangedStrength": 1,
-    "range": 0,
-    "cost": 25,
-    "uniques": ["[+2] Sight", "Can carry [2] [Missile] units"],
     "attackSound": "missile"
   },
   {
