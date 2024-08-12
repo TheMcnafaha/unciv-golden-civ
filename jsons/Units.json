@@ -69,7 +69,10 @@
     "rangedStrength": 200,
     "range": 6,
     "cost": 200,
-    "uniques": ["Earn [1800]% of killed [Wounded] unit's [Cost] as [Gold]"],
+    "uniques": [
+      "Earn [1800]% of killed [Wounded] unit's [Cost] as [Gold]",
+      "Consumes [1] [Gold]"
+    ],
     "requiredTech": "Electricity",
     "attackSound": "missile"
   },
@@ -160,20 +163,6 @@
     "uniques": ["Earn [400]% of killed [Wounded] unit's [Cost] as [Science]"],
     "requiredTech": "Scientific Theory",
     "attackSound": "missile"
-  },
-  {
-    "name": "Production Missile V1",
-    "unitType": "Missile",
-    "movement": 1,
-    "strength": 300,
-    "rangedStrength": 300,
-    "range": 3,
-    "cost": 300,
-    "uniques": [
-      "Earn [300]% of killed [Wounded] unit's [Cost] as [Production]"
-    ],
-    "requiredResource": "Coal",
-    "requiredTech": "Industrialization"
   },
   {
     "name": "Magnum Opus",
