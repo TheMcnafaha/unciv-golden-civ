@@ -45,7 +45,6 @@
     "range": 2,
     "cost": 20,
     "uniques": ["Earn [200]% of killed [Wounded] unit's [Cost] as [Gold]"],
-    "obsoleteTech": "Metal Casting",
     "attackSound": "missile"
   },
   {
