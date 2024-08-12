@@ -71,7 +71,7 @@
     "cost": 200,
     "uniques": [
       "Earn [1800]% of killed [Wounded] unit's [Cost] as [Gold]",
-      "Consumes [1] [Gold]"
+      "Consumes [1] [Gold Ore]"
     ],
     "requiredTech": "Electricity",
     "attackSound": "missile"
