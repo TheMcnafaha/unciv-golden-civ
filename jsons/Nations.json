@@ -34,7 +34,7 @@
     "innerColor": [255, 200, 200],
     "unique": [
       "Military Units gifted from City-States start with [300] XP",
-      "Starts with [Radar]"
+      "Gain a free [Barracks] [in all cities]"
     ],
     "cities": ["Chernobyl"]
   }
