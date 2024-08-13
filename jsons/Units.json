@@ -11,7 +11,8 @@
       "Can build [Airfield] improvements on tiles",
       "Can carry [2] [Ballistic] units",
       "Can carry [2] extra [Aircraft] units <in [Airfield] tiles>"
-    ]
+    ],
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Naval Launcher",
@@ -26,7 +27,8 @@
       "[+1] Sight",
       "Can carry [2] [Ballistic] units"
     ],
-    "attackSound": "torpedo"
+    "attackSound": "torpedo",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "V1 Cluster Bombs",
@@ -38,7 +40,8 @@
     "cost": 300,
     "uniques": ["Blast radius [3]", "Nuclear weapon of Strength [0]"],
     "attackSound": "missile",
-    "upgradesTo": "V2 Cluster Bombs"
+    "upgradesTo": "V2 Cluster Bombs",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "V2 Cluster Bombs",
@@ -49,7 +52,8 @@
     "range": 3,
     "cost": 600,
     "uniques": ["Blast radius [4]", "Nuclear weapon of Strength [0]"],
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Bronze Missile",
@@ -60,7 +64,8 @@
     "range": 2,
     "cost": 20,
     "uniques": ["Earn [200]% of killed [Wounded] unit's [Cost] as [Gold]"],
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Metal Missile",
@@ -73,7 +78,8 @@
     "uniques": ["Earn [600]% of killed [Wounded] unit's [Cost] as [Gold]"],
     "requiredTech": "Metal Casting",
     "requiredResource": "Iron",
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Golden Missile",
@@ -88,7 +94,8 @@
       "Consumes [1] [Gold Ore]"
     ],
     "requiredTech": "Electricity",
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Light Science Missile V1",
@@ -101,7 +108,8 @@
     "uniques": ["Earn [100]% of killed [Wounded] unit's [Cost] as [Science]"],
     "requiredTech": "Writing",
     "upgradesTo": "Light Science Missile V2",
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Light Science Missile V2",
@@ -114,7 +122,8 @@
     "uniques": ["Earn [150]% of killed [Wounded] unit's [Cost] as [Science]"],
     "requiredTech": "Education",
     "upgradesTo": "Light Science Missile V3",
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Light Science Missile V3",
@@ -126,7 +135,8 @@
     "cost": 200,
     "uniques": ["Earn [200]% of killed [Wounded] unit's [Cost] as [Science]"],
     "requiredTech": "Plastics",
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Heavy Science Missile V1",
@@ -139,7 +149,8 @@
     "uniques": ["Earn [1000]% of killed [Wounded] unit's [Cost] as [Science]"],
     "requiredTech": "Writing",
     "upgradesTo": "Heavy Science Missile V2",
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Heavy Science Missile V2",
@@ -151,7 +162,8 @@
     "cost": 300,
     "uniques": ["Earn [1500]% of killed [Wounded] unit's [Cost] as [Science]"],
     "requiredTech": "Education",
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Medium Science Missile V1",
@@ -164,7 +176,8 @@
     "uniques": ["Earn [300]% of killed [Wounded] unit's [Cost] as [Science]"],
     "requiredTech": "Education",
     "upgradesTo": "Medium Science Missile V2",
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Medium Science Missile V2",
@@ -176,7 +189,8 @@
     "cost": 200,
     "uniques": ["Earn [400]% of killed [Wounded] unit's [Cost] as [Science]"],
     "requiredTech": "Scientific Theory",
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   },
   {
     "name": "Magnum Opus",
@@ -193,6 +207,7 @@
       "Blast radius [5]",
       "Consumes [5] [Uranium]"
     ],
-    "attackSound": "missile"
+    "attackSound": "missile",
+    "uniqueTo": "Nukers"
   }
 ]
