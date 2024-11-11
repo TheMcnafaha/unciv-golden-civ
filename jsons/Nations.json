@@ -1,9 +1,9 @@
 [
   {
-    "name": "Nukers",
-    "leaderName": "Plutonium",
-    "adjective": ["plutoniums"],
-    "startBias": ["Tundra", "Coast"],
+    "name": "Golden Civ",
+    "leaderName": "Aurum",
+    "adjective": ["Gold"],
+    "startBias": ["Coast"],
     "preferredVictoryType": "Scientific",
 
     "startIntroPart1": "We come in peace!",
@@ -34,8 +34,14 @@
     "innerColor": [255, 200, 200],
     "unique": [
       "Military Units gifted from City-States start with [300] XP",
-      "Gain a free [Barracks] [in all cities]"
+      "Earn [200]% of killed [Wounded] unit's [Cost] as [Gold]"
     ],
-    "cities": ["Chernobyl"]
+    "cities": [
+      "Golden Capital",
+      "Second Golden City",
+      "Third Golden City",
+      "Gold Dust",
+      "Far Gold"
+    ]
   }
 ]
