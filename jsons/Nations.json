@@ -34,7 +34,7 @@
     "innerColor": [255, 200, 200],
     "uniques": [
       "Military Units gifted from City-States start with [300] XP",
-      "Earn [200]% of killed [Wounded] unit's [Cost] as [Gold]"
+      "Earn [400]% of killed [Wounded] unit's [Cost] as [Gold]"
     ],
     "cities": [
       "Golden Capital",
